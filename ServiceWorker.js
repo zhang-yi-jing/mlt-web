@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-web-test1-1.0";
 const contentToCache = [
-    "Build/webtry.loader.js",
-    "Build/webtry.framework.js.unityweb",
-    "Build/webtry.data.unityweb",
-    "Build/webtry.wasm.unityweb",
+    "Build/mlt-web.loader.js",
+    "Build/mlt-web.framework.js.unityweb",
+    "Build/mlt-web.data.unityweb",
+    "Build/mlt-web.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
